@@ -1,1 +1,2 @@
-# SE-EXP-20-VERSION-CONTROL
+# SE Exp 20 - Version Control 
+Project workflow and version control documentation using Git and GitHub. 
